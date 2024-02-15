@@ -1,1 +1,1 @@
-# C-project
+Snake Game using C language
